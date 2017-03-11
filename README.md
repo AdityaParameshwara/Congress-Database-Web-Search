@@ -8,3 +8,8 @@ Technologies used:
   jQuery
   AngularJS
   PHP
+  
+  Libraries needed: 
+  angular.min.js
+  bootstrap.css
+  dirPagination.js
